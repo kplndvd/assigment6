@@ -1,0 +1,36 @@
+.icon_images{
+    display: flex;
+    padding: 5px;
+    height:60px;
+    width:60px;
+}
+
+
+table, table td, table th {
+ 
+    border: 1px solid black;
+    margin-left: 35px;
+    border-collapse: collapse;
+}
+
+p{
+    margin-left: 35px ;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    margin-left: 30px;
+}
+
+body{
+    background-color: bisque;
+}
+
+button{
+    background:chartreuse;
+    padding: 20px;
+}
